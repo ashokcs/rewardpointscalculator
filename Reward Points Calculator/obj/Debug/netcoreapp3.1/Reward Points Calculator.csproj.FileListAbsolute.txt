@@ -1,0 +1,20 @@
+C:\Users\ashok\source\repos\Reward Points Calculator\bin\Debug\netcoreapp3.1\Reward Points Calculator.exe
+C:\Users\ashok\source\repos\Reward Points Calculator\bin\Debug\netcoreapp3.1\Reward Points Calculator.deps.json
+C:\Users\ashok\source\repos\Reward Points Calculator\bin\Debug\netcoreapp3.1\Reward Points Calculator.runtimeconfig.json
+C:\Users\ashok\source\repos\Reward Points Calculator\bin\Debug\netcoreapp3.1\Reward Points Calculator.runtimeconfig.dev.json
+C:\Users\ashok\source\repos\Reward Points Calculator\bin\Debug\netcoreapp3.1\Reward Points Calculator.dll
+C:\Users\ashok\source\repos\Reward Points Calculator\bin\Debug\netcoreapp3.1\Reward Points Calculator.pdb
+C:\Users\ashok\source\repos\Reward Points Calculator\obj\Debug\netcoreapp3.1\Reward Points Calculator.csprojAssemblyReference.cache
+C:\Users\ashok\source\repos\Reward Points Calculator\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\ashok\source\repos\Reward Points Calculator\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\ashok\source\repos\Reward Points Calculator\obj\Debug\netcoreapp3.1\Reward Points Calculator_MarkupCompile.cache
+C:\Users\ashok\source\repos\Reward Points Calculator\obj\Debug\netcoreapp3.1\Reward Points Calculator_MarkupCompile.lref
+C:\Users\ashok\source\repos\Reward Points Calculator\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\ashok\source\repos\Reward Points Calculator\obj\Debug\netcoreapp3.1\Reward Points Calculator.g.resources
+C:\Users\ashok\source\repos\Reward Points Calculator\obj\Debug\netcoreapp3.1\Reward Points Calculator.AssemblyInfoInputs.cache
+C:\Users\ashok\source\repos\Reward Points Calculator\obj\Debug\netcoreapp3.1\Reward Points Calculator.AssemblyInfo.cs
+C:\Users\ashok\source\repos\Reward Points Calculator\obj\Debug\netcoreapp3.1\Reward Points Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ashok\source\repos\Reward Points Calculator\obj\Debug\netcoreapp3.1\Reward Points Calculator.dll
+C:\Users\ashok\source\repos\Reward Points Calculator\obj\Debug\netcoreapp3.1\Reward Points Calculator.pdb
+C:\Users\ashok\source\repos\Reward Points Calculator\obj\Debug\netcoreapp3.1\Reward Points Calculator.genruntimeconfig.cache
+C:\Users\ashok\source\repos\Reward Points Calculator\obj\Debug\netcoreapp3.1\Dictionary1.baml

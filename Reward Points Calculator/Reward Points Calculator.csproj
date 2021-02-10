@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Reward_Points_Calculator</RootNamespace>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>Reward.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Reward.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Reward.ico" />
+  </ItemGroup>
+
+</Project>
